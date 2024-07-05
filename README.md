@@ -33,5 +33,4 @@ recipe organizer-app/
 - **HTML5**: For structuring the web page.
 - **CSS3**: For styling the web page.
 - **JavaScript (ES6)**: For adding interactivity and handling task management logic.
-- **Font Awesome**: For adding icons.
 
